@@ -2,6 +2,12 @@
 
 This repository provides official Tensorflow implementation of the following paper:
 
+**Cancelable Biometric Template Generation using Convolutional Autoencoder**<br><mark>Gourav Siddhad, Pritee Khanna, and Aparajita Ojha</mark><br>
+
+**Abstract:** Convolutional autoencoders are a great tool for extracting features from images and compressing them to a lower dimension called latent space. A latent space vector is generated from the input images by extracting  the relevant and the most useful features required for approximating the images. In the proposed work, a convolutional autoencoder is used for  feature extraction, random noise and random convolution are used for  generating cancelable template from these features. This architecture  has been trained for palm vein, wrist vein, and palm print images  combined from different datasets namely, CASIA, CIEPUT, and PolyU. The  proposed method has been experimented and evaluated for various  modalities such as palm print, palm vein, and wrist vein. The evaluation of these methods has been done in three different scenarios for  addressing different uses and attacks possible.<br>
+
+DOI: https://doi.org/10.1007/978-981-16-1086-8_27
+
 > **Cancelable Biometric Template Generation using Convolutional Autoencoder**<br><mark>Gourav Siddhad, Pritee Khanna, and Aparajita Ojha</mark><br>
 >
 > **Abstract:** Convolutional autoencoders are a great tool for extracting features from images and compressing them to a lower dimension called latent space. A latent space vector is generated from the input images by extracting  the relevant and the most useful features required for approximating the images. In the proposed work, a convolutional autoencoder is used for  feature extraction, random noise and random convolution are used for  generating cancelable template from these features. This architecture  has been trained for palm vein, wrist vein, and palm print images  combined from different datasets namely, CASIA, CIEPUT, and PolyU. The  proposed method has been experimented and evaluated for various  modalities such as palm print, palm vein, and wrist vein. The evaluation of these methods has been done in three different scenarios for  addressing different uses and attacks possible.<br>
