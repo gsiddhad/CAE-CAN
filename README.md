@@ -12,9 +12,8 @@ doi: https://doi.org/10.1007/978-981-16-1086-8_27
 
 ## Citation
 
-Please cite our paper, if you happen to use this codebase:
+If you find this work helpful, please cite our [paper](https://doi.org/10.1007/978-981-16-1086-8_27):
 
-````
 ```
 @inproceedings{siddhad2021cancelable,
 	title        = {Cancelable Biometric Template Generation Using Convolutional Autoencoder},
@@ -30,5 +29,4 @@ Please cite our paper, if you happen to use this codebase:
 	editor       = {Singh, Satish Kumar and Roy, Partha and Raman, Balasubramanian and Nagabhushan, P.},
 }
 ```
-````
 
