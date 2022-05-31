@@ -13,6 +13,10 @@ DOI: https://doi.org/10.1007/978-981-16-1086-8_27
 If you find this work helpful, please cite our [paper](https://doi.org/10.1007/978-981-16-1086-8_27):
 
 ```
+Siddhad, G., Khanna, P., Ojha, A. (2021). Cancelable Biometric Template Generation Using Convolutional Autoencoder. In: Singh, S.K., Roy, P., Raman, B., Nagabhushan, P. (eds) Computer Vision and Image Processing. CVIP 2020. Communications in Computer and Information Science, vol 1376. Springer, Singapore. DOI: 10.1007/978-981-16-1086-8_27
+```
+
+```
 @inproceedings{siddhad2021cancelable,
 	title        = {Cancelable Biometric Template Generation Using Convolutional Autoencoder},
 	author       = {Siddhad, Gourav and Khanna, Pritee and Ojha, Aparajita},
@@ -27,4 +31,3 @@ If you find this work helpful, please cite our [paper](https://doi.org/10.1007/9
 	editor       = {Singh, Satish Kumar and Roy, Partha and Raman, Balasubramanian and Nagabhushan, P.},
 }
 ```
-
